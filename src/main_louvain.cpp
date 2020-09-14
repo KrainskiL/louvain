@@ -30,7 +30,7 @@
 //-----------------------------------------------------------------------------
 // see README.txt for more details
 
-
+#include <ctime> //for Windows
 #include "graph_binary.h"
 #include "louvain.h"
 #include <unistd.h>
